@@ -1,2 +1,2 @@
 # Soduku-Solver
-Recursive python Sudoku solver
+Recursive Depth-First search Sudoku solver in Python
